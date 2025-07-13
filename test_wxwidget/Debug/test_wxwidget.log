@@ -1,0 +1,9 @@
+﻿  cApp.cpp
+  cMain.cpp
+C:\Users\Usuarioç\Desktop\Teselator\test_wxwidget\cMain.cpp(79,9): warning C4101: 'y': variable local sin referencia
+C:\Users\Usuarioç\Desktop\Teselator\test_wxwidget\cMain.cpp(79,6): warning C4101: 'x': variable local sin referencia
+  tEditorTile.cpp
+C:\Users\Usuarioç\Desktop\Teselator\test_wxwidget\tEditorTile.cpp(82,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuarioç\Desktop\Teselator\test_wxwidget\tEditorTile.cpp(88,25): warning C4101: 'ex': variable local sin referencia
+  Generando código...
+  test_wxwidget.vcxproj -> C:\Users\Usuarioç\Desktop\Teselator\Debug\test_wxwidget.exe
